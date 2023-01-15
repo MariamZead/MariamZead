@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariam Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
